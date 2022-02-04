@@ -1,5 +1,5 @@
 {
-  "name": "node-demo",
+  "name": "demo",
   "version": "1.0.0",
   "description": "A Simple NodeJS Demo",
   "main": "index.js",
@@ -16,7 +16,7 @@
     "nodejs"
   ],
   "bugs": {
-    "url": "https://github.com/rainaajeet/nodedemo/issues"
+    "url": "https://github.com/rainaajeet/testing-nodejs/issues"
   },
-  "homepage": "https://github.com/rainaajeet/nodedemo#readme"
+  "homepage": "https://github.com/rainaajeet/testing-nodejs#readme"
 }
