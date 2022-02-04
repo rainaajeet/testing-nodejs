@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/rainaajeet/testing-nodejs/issues"
   },
-  "homepage": "https://github.com/rainaajeet/testing-nodejs#readme"
+  "homepage": "https://github.com/rainaajeet/testing-nodejs#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
 }

@@ -8,6 +8,6 @@ demo.get('/', function(request, response) {
   response.send('Hello World!')
 })
 
-demo.listen(demo.get('port'), function() {
+app.listen(demo.get('port'), function() {
   console.log("Node app is running at localhost:" + demo.get('port'))
 })
