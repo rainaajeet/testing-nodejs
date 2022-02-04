@@ -1,0 +1,22 @@
+{
+  "name": "node-demo",
+  "version": "1.0.0",
+  "description": "A Simple NodeJS Demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ajeet Singh Raina",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rainaajeet/testing-nodejs.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "bugs": {
+    "url": "https://github.com/rainaajeet/nodedemo/issues"
+  },
+  "homepage": "https://github.com/rainaajeet/nodedemo#readme"
+}
